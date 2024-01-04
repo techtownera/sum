@@ -1,7 +1,7 @@
 a = 6
-b = 9
+f = 9
 
-sum = a + b
+sum = a + f
 
 print(sum)
 
